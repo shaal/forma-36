@@ -5,7 +5,7 @@ import { DropdownListItem } from '../../Dropdown/DropdownListItem/DropdownListIt
 import { DropdownList } from '../../Dropdown/DropdownList/DropdownList';
 
 export default {
-  title: 'Components/Card/InlineEntryCard',
+  title: 'Components/Card (old)/InlineEntryCard',
   component: InlineEntryCard,
   parameters: {
     propTypes: [InlineEntryCard['__docgenInfo']],

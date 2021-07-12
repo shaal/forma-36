@@ -8,7 +8,7 @@ import { CardDragHandle } from '../CardDragHandle/CardDragHandle';
 import { DropdownList, DropdownListItem } from '../../Dropdown';
 
 export default {
-  title: 'Components/Card/EntryCard',
+  title: 'Components/Card (old)/EntryCard',
   component: EntryCard,
   parameters: {
     propTypes: [EntryCard['__docgenInfo']],

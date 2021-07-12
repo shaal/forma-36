@@ -8,7 +8,7 @@ import { DropdownList, DropdownListItem } from '../../Dropdown';
 import { CardDragHandle } from '../CardDragHandle/CardDragHandle';
 
 export default {
-  title: 'Components/Card/AssetCard',
+  title: 'Components/Card (old)/AssetCard',
   component: AssetCard,
   parameters: {
     propTypes: [AssetCard['__docgenInfo']],

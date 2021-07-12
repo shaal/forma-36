@@ -4,7 +4,7 @@ import { CardActions } from './CardActions';
 import { DropdownList, DropdownListItem } from './../../Dropdown';
 
 export default {
-  title: 'Components/Card/CardActions',
+  title: 'Components/Card (old)/CardActions',
   component: CardActions,
   parameters: {
     propTypes: [CardActions['__docgenInfo']],

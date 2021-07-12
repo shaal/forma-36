@@ -3,7 +3,7 @@ import React from 'react';
 import { CardDragHandle } from './CardDragHandle';
 
 export default {
-  title: 'Components/Card/CardDragHandle',
+  title: 'Components/Card (old)/CardDragHandle',
   component: CardDragHandle,
   parameters: {
     propTypes: [CardDragHandle['__docgenInfo']],
